@@ -1,0 +1,14 @@
+#main-photo {
+    width: 300px;
+    height: auto;
+    display: block;
+}
+#icon {
+    width: 14px;
+    height: 14px;
+    display: inline-flex;
+    
+}
+li {
+    color: green;
+}
